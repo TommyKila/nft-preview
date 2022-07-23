@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: Outfit;
-    src: url(./fonts/Outfit-VariableFont_wght.ttf);
+    src: url(./Outfit-VariableFont_wght.ttf);
 }
 
 body {
@@ -38,7 +38,7 @@ body {
 
 .full {
     background-color: hsl(178, 100%, 50%);
-    background-image: url(./images/icon-view.svg);
+    background-image: url(./icon-view.svg);
     background-repeat: no-repeat;
     background-position: center;
     margin: 1.25em 0 0;
